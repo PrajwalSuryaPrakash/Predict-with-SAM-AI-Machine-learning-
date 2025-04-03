@@ -82,8 +82,15 @@ streamlit run PREDICTION.py
 
 
 
-## AUTHORS
+---
 
-- [@SUVAJITKARMAKAR](https://github.com/SUVAJITKARMAKAR)
-- [@ALWINTOMY](https://github.com/ALW-N)
-- [@MANOSWITABOSE](https://github.com/manoswita2501)
+## 🤝 **Contributors**
+👤 **Prajwal Surya Prakash**  
+📩 [prajwalsuryaprakash@gmail.com](mailto:prajwalsuryaprakash@gmail.com)  
+🔗 [LinkedIn](https://linkedin.com/in/prajwal-surya-prakash-7bb980246/) | 🌐 [GitHub](https://github.com/PrajwalSuryaPrakash)  
+
+---
+
+## ⭐ **Like this Project?**
+If you found this project useful, **give it a star ⭐** on GitHub and share it with others! 🚀
+
